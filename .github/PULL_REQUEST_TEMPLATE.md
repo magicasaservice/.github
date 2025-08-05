@@ -15,11 +15,3 @@
 ### Additional context
 
 <!-- Is there anything you’d like the reviewers to focus on? -->
-
----
-
-<!-- Allow GitHub Copilot to provide summary for your PR. Do not remove! -->
-
-copilot:summary
-
-copilot:walkthrough
