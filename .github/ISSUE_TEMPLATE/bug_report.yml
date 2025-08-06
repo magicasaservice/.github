@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-        Please make sure there aren’t any open/closed issues for this topic.
+        Please make sure there isn’t already an open issue for this bug.
         
   - type: textarea
     id: bug-description
@@ -20,7 +20,7 @@ body:
     id: steps-to-reproduce
     attributes:
       label: Steps To Reproduce
-      description: Steps to reproduce the bug.
+      description: How can we reproduce the bug?
       placeholder: |
         1. Go to '...'
         2. Click on '...'
