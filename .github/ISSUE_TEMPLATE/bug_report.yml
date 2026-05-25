@@ -1,6 +1,6 @@
 name: 🐛 Bug Report
 description: Reporting a bug here
-labels: ["bug", "pending triage"]
+labels: ["Bug", "Pending Triage"]
 body:
   - type: markdown
     attributes:
